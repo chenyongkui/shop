@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tt-manager-dao" />
+        <module name="tt-manager-interface" />
+        <module name="tt-manager-pojo" />
+        <module name="tt-manager-service" />
+        <module name="tt-manager-web" />
+        <module name="ttcommon" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tt-manager-dao" target="1.7" />
+      <module name="tt-manager-interface" target="1.7" />
+      <module name="tt-manager-pojo" target="1.7" />
+      <module name="tt-manager-service" target="1.7" />
+      <module name="tt-manager-web" target="1.7" />
+      <module name="ttcommon" target="1.7" />
+      <module name="ttmanager" target="1.7" />
+      <module name="ttparent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ttmanager/tt-manager-dao/tt-manager-dao.iml" filepath="$PROJECT_DIR$/ttmanager/tt-manager-dao/tt-manager-dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ttmanager/tt-manager-interface/tt-manager-interface.iml" filepath="$PROJECT_DIR$/ttmanager/tt-manager-interface/tt-manager-interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ttmanager/tt-manager-pojo/tt-manager-pojo.iml" filepath="$PROJECT_DIR$/ttmanager/tt-manager-pojo/tt-manager-pojo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ttmanager/tt-manager-service/tt-manager-service.iml" filepath="$PROJECT_DIR$/ttmanager/tt-manager-service/tt-manager-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ttmanager/tt-manager-web/tt-manager-web.iml" filepath="$PROJECT_DIR$/ttmanager/tt-manager-web/tt-manager-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ttcommon/ttcommon.iml" filepath="$PROJECT_DIR$/ttcommon/ttcommon.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ttmanager/ttmanager.iml" filepath="$PROJECT_DIR$/ttmanager/ttmanager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ttparent/ttparent.iml" filepath="$PROJECT_DIR$/ttparent/ttparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loan-parent/loan-parent.iml" filepath="$PROJECT_DIR$/loan-parent/loan-parent.iml" />
     </modules>
   </component>
 </project>

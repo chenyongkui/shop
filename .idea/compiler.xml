@@ -14,7 +14,7 @@
         <module name="ttcommon" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.7">
       <module name="tt-manager-dao" target="1.7" />
       <module name="tt-manager-interface" target="1.7" />
       <module name="tt-manager-pojo" target="1.7" />
